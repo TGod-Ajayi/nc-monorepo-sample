@@ -1,0 +1,6 @@
+{
+  "name": "nc-monorepo-sample",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "engines": { "node": ">=20" }
+}
